@@ -18,6 +18,8 @@ namespace ContactBook
 
             InitializeComponent();
 
+            // Create new object so that if the user makes changes
+            // and then clicks Back (instead of Save), the changes are reverted
             BindingContext = new Contact
             {
                 Id = contact.Id,
