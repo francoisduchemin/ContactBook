@@ -135,7 +135,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ContactBook\ContactBook.csproj">
-      <Project>{91978c79-11a8-49c8-be7f-d7a9ed84b730}</Project>
+      <Project>{954B7CBD-2F73-448A-94C0-6EBC1F0B9D20}</Project>
       <Name>ContactBook</Name>
     </ProjectReference>
   </ItemGroup>
